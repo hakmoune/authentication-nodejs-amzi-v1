@@ -1,4 +1,4 @@
-const app = require("./app");
+const app = require("./app"); //Fair appelle a notre Express Application
 
 const port = process.env.PORT || 5000;
 
